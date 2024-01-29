@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: student-performance-predictor
+Version: 0.0.1
+Summary: app that predicts the performance of the students
+Author: shakti
+Author-email: optional
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
